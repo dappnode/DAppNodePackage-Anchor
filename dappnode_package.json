@@ -57,7 +57,7 @@
     {
       "arg": "DKG_UPSTREAM_VERSION",
       "repo": "ssvlabs/ssv-dkg",
-      "version": "v3.1.0"
+      "version": "v3.1.1"
     },
     {
       "arg": "STAKER_SCRIPTS_VERSION",
